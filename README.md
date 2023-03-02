@@ -1,2 +1,17 @@
-# veterinary-vebsite
-This project consists of creating a veterinary website. The site will have information about the training and experience of the veterinarian, conveying professionalism and confidence to visitors, location of the office or clinic, services provided, frequently asked questions section, sending messages and scheduling appointments.
+# Veterinary Website
+
+<img src="./assets/img/workers.jpg" alt="página inicial">
+
+> Ainda em criação, o site terá informações sobre a formação e experiência do veterinário, transmitindo profissionalismo e confiança aos visitantes, localização do consultório ou clínica, serviços prestados, seção de dúvidas frequentes, envio de mensagens e agendamento de consultas.
+
+> 🚧 Site em construção 🚧
+
+
+
+
+
+
+
+
+
+[⬆ Voltar ao topo](#veterinary-website)<br>
