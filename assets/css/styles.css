@@ -177,7 +177,9 @@ img{
 }
 
 .home__description{
-    margin-bottom: 2.5rem;    
+    margin-bottom: 2.5rem; 
+    color: var(--yellow-color);  /*Included after*/
+    font-size: 1.2rem;  /*Included after*/
 }
 
 .home__button{
