@@ -13,12 +13,13 @@
 --first-color-dark: #C1576A;
 --first-color-darken: #A83E51;
 --white-color: #FCF8F8;
+--yellow-light-color: #f0f0d4;
 --yellow-color: #FFFF00;
 --golden-color: #FFD700;
 
 /* Fonts and typography */
 --body-font:'Poppins', sans-serif;
---big-font-size: 2.5rem;
+--big-font-size: 4.5rem;
 --normal-font-size: .938rem;
 
 /* z index */
@@ -83,6 +84,21 @@ img{
     left: 0;
     z-index: var(--z-fixed);
     background-color: var(--first-color);
+}
+
+.heading {
+    text-align: center;
+    color: #fff;
+    /*text-transform: uppercase;*/
+    padding-top: 1.5rem; /*Included later*/
+    padding-bottom: 3.5rem;
+    font-size: 3rem;
+    background-color: var(--yellow-light-color);
+}
+
+.heading span {
+    color: var(--first-color-dark);
+    /*text-transform: uppercase;*/
 }
 
 /* nav */
@@ -195,6 +211,62 @@ img{
 }
 
 
+.about .row{
+    display: flex;
+    align-items: center;
+    background-color: var(--yellow-light-color);
+    flex-wrap: wrap;
+}
+
+.about .row .image{
+    /*flex: 1 1 45rem;*/
+}
+
+.about .row .image img{
+    width: 60%; /* Image size*/
+    position: relative; /*Image position*/
+    left: 60px;
+}
+
+.about .row .content{
+    /*flex: 1 1 45rem;*/
+    flex: 0 1 30rem;
+    padding: 2rem;
+    position: relative;
+    /*right: 50px;*/
+   
+}
+
+.about .row .content h3{
+    font-size: 1.3rem;
+    color: var(--first-color-darken);
+}
+
+.about .row .content p{
+    font-size: .95rem;
+    color: #ccc;  
+    padding: 1rem 0; 
+    line-height: 1.2; 
+    color: var(--first-color-dark);
+}
+
+.btn__inicio{
+    display: inline-block;
+    background-color: var(--first-color-dark);
+    color: var(--white-color);
+    padding: 1.125rem 2rem;
+    border-radius: .5rem;
+}
+
+.btn__inicio:hover{
+    background-color: var(--first-color-darken);
+}
+
+
+
+
+
+
 /* Media Queries */
 
 @media screen and (min-width: 768px) {
@@ -260,6 +332,11 @@ img{
     .home__img img{
         width: 604px;
     }
+    
+}
+
+@media only screen and (max-width: 965px){
+.sobremim-foto img {width: 12rem;}
     
 }
 
