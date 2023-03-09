@@ -217,10 +217,15 @@ img{
     align-items: center;
     background-color: var(--yellow-light-color);
     flex-wrap: wrap;
+    justify-content: center;
+    /*Testing*/
+
+    margin: 0 auto;
+    padding: 5rem 0;
 }
 
 .about .row .image{
-    /*flex: 1 1 45rem;*/
+    /*flex: 1 1 35rem;*/  /*Before: flex: 1 1 45rem;*/
 }
 
 .about .row .image img{
