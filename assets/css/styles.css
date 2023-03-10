@@ -91,8 +91,8 @@ img{
     color: #fff;
     /*text-transform: uppercase;*/
     padding-top: 1.5rem; /*Included later*/
-    padding-bottom: 3.5rem;
-    font-size: 3rem;
+    /*padding-bottom: 3.5rem;*/
+    font-size: 2.1rem;
     background-color: var(--yellow-light-color);
 }
 
@@ -165,7 +165,8 @@ img{
 .home__container{
     height: calc(100vh - var(--header-heigth));
     grid-template-rows:repeat(2, max-content) ;
-    row-gap: 1.5rem;    
+    row-gap: 1.5rem;   
+    padding-bottom: 3rem 
 }
 
 .home__img{
