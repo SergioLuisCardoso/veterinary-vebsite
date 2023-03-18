@@ -1,2 +1,9 @@
 #Project images
 ext
+
+#Project codes
+texts.html
+texts.txt
+
+#Source Code Editor / Folder
+.vscode
