@@ -11,7 +11,7 @@
 O projeto ainda está em desenvolvimento e as próximas atualizações serão voltadas nas seguintes tarefas:
 
 - [x] Página inicial
-- [ ] Página Sobre
+- [x] Página Sobre
 - [ ] Página Consultas
 - [ ] Página Contato
 - [ ] Configurar WhatsApp
