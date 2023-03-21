@@ -248,7 +248,31 @@ p{
     flex: 1 1 350px;
 }
 
+/****************************************/
+/*************** Serviços ***************/
+/****************************************/
 
+.consultas{
+    max-width: 960px;
+    margin: 0 auto;
+}
+
+.consultas-container{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+}
+
+.consulta{
+    width: 280px; /*Tamanho das figuras*/
+    margin: 0 20px; /*Margem entre as figuras - sup/inf=0 dir/esq=20px */
+}
+
+.consulta__titulo{
+    font-size: 1.5rem;
+    text-align: center;
+    margin: 10px 0 5px 0; /* s-10 d-0 i-5 d-0*/
+}
 
 
 .about .row{
