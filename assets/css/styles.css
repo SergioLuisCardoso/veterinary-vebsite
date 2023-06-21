@@ -26,6 +26,16 @@
 --z-fixed: 100;
 }
 
+
+hr {
+    border: none;
+    background-color: var(--first-color);
+    height: 2px;
+    width: 140px;
+    margin: 20px auto;
+
+
+}
 @media screen and (min-width: 768px){
     :root{
         --big-font-size: 3.5rem;/*previously 5rem*/
