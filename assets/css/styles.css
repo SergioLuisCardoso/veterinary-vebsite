@@ -26,6 +26,9 @@
 --z-fixed: 100;
 }
 
+html{
+    scroll-behavior: smooth;
+}
 
 hr {
     border: none;
