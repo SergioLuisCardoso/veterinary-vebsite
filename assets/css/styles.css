@@ -354,8 +354,58 @@ p{
     background-color: var(--first-color-darken);
 }
 
+/****************************************/
+/*************** Contato ***************/
+/****************************************/
+/*
+form{
+    height: 100vh;
+    width: 100%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    background: var(--first-color) ;
+    position: relative;
+}
 
+form::before{
+    content: '';
+    position: relative;
+    height: 100%;
+    width: 100%;
+    left: 0;
+    right: 0;
+    background: var(--first-color-dark);
+    clip-path: polygon(86% 0, 100% 0, 100% 100%, 60% 100% );
+}
 
+*/
+
+.contact-container{
+    z-index: 12;
+    max-width: 1050;
+    width: 100%;
+    background: #fff;
+    border: 12px;
+    margin: 0 20px;
+    box-shadow: 0 5px 10px rgba(0,0,0, 0.15);
+
+}
+
+.contact-container .content{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    padding: 25px 20px;
+}
+
+.content .image-box{
+    max-width: 75%;
+}
+
+.content .input-box{
+
+}
 
 
 
