@@ -429,6 +429,19 @@ form::before{
     position: relative;
 }
 
+.content .input-box input{
+    position: relative;
+    height: 100%;
+    width: 100%;
+    border-radius: 6px;
+    font-size: 16px;
+    outline: none;
+    padding-left: 16px;
+    
+}
+
+
+
 
 
 
