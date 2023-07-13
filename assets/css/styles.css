@@ -383,8 +383,8 @@ form::before{
 
 .contact-container{
     z-index: 12;
-    max-width: 1050;
-    width: 100%;
+    max-width: 100;
+    width: 95%;
     background: #fff;
     border: 12px;
     margin: 0 20px;
@@ -400,10 +400,11 @@ form::before{
 }
 
 .content .image-box{
-    max-width: 75%;
+    max-width: 100%;
 }
 
-.content .input-box{
+.content .image-box img{
+    width: 100%;
 
 }
 
