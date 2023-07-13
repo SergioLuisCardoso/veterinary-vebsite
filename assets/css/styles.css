@@ -405,8 +405,32 @@ form::before{
 
 .content .image-box img{
     width: 100%;
-
 }
+
+.content .topic{
+    font-size: 52px;
+    font-weight: 500;
+    color: var(--first-color-darken);
+}
+
+.content form{
+    width:40%;
+    margin-left: 30px;
+}
+
+.input-box, .message-box{
+    margin-left: 30px;
+}
+
+.content .input-box{
+    height: 50px;
+    width: 100%;
+    margin: 16px 0;
+    position: relative;
+}
+
+
+
 
 
 
