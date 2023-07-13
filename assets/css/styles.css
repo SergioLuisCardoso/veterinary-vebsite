@@ -437,8 +437,28 @@ form::before{
     font-size: 16px;
     outline: none;
     padding-left: 16px;
+    background:var(--first-color);
+    border: 2px solid transparent;
+    transition: all 0.3s ease;
+}
+
+.content .input-box input:focus,
+.content .input-box input:valid{
+    border-color: var(--first-color-darken);
+    background: #fff;
+}
+
+.content .input-box label{
+    position: absolute;
+    left: 18px;
+    top: 50%;
+    color: #636c72;
+    font-size: 15px;
+    pointer-events: none;
+    transform: translateY(-50%);
     
 }
+
 
 
 
