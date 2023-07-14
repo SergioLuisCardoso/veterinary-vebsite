@@ -476,7 +476,7 @@ form::before{
 .input-box input:focus ~ label,
 .input-box input:valid ~ label{
     top: 0;
-    left: 40px;
+    left: 80px;
     color:#A83E51;
     background:#fff;
 }
