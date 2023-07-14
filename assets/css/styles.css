@@ -378,8 +378,9 @@ form::before{
     background: var(--first-color-dark);
     clip-path: polygon(86% 0, 100% 0, 100% 100%, 60% 100% );
 }
-
 */
+
+
 
 .contact-container{
     z-index: 12;
@@ -397,6 +398,8 @@ form::before{
     align-items: center;
     justify-content: space-between;
     padding: 25px 20px;
+    /*background-color: var(--first-color);*/
+    background-repeat: url("/assets/img/2709577_14710.jpg");
 }
 
 .content .image-box{
@@ -418,8 +421,10 @@ form::before{
     margin-left: 30px;
 }
 
+
 .input-box, .message-box{
-    margin-left: 30px;
+    margin-left: 19px;
+    margin-right: 19px;
 }
 
 .content .input-box{
@@ -429,7 +434,7 @@ form::before{
     position: relative;
 }
 
-.content .input-box input{
+.input-box input{
     position: relative;
     height: 100%;
     width: 100%;
@@ -442,8 +447,8 @@ form::before{
     transition: all 0.3s ease;
 }
 
-.content .input-box input:focus,
-.content .input-box input:valid{
+.input-box input:focus,
+.input-box input:valid{
     border-color: var(--first-color-darken);
     background: #fff;
 }
@@ -501,8 +506,38 @@ form::before{
 
 .content .input-box textarea:focus ~ label{
     left: 12px;
-    
+    top: -10px;
+    color: var(--first-color-darken);
+    padding-left: 0;
+    font-size: 18px;
+    font-weight: 500;
+    cursor: pointer;
+    letter-spacing: 1px;
+    transition: all 0.3s ease;
+
 }
+
+/*
+@media (max-width: 1000px){
+    .content .image-box{
+        max-width: 70%;        
+    }
+    .content{
+        padding: 10px 0;
+    }
+}
+
+@media (max-width: 900px){
+    .content .image-box{
+        display: none;        
+      
+    }
+    .content form{
+        width: 100%;
+        margin-left: 30px;
+    }
+
+}*/
 
 
 
