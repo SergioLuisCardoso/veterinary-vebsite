@@ -423,9 +423,10 @@ form::before{
 
 
 .input-box, .message-box{
-    margin-left: 19px;
-    margin-right: 19px;
+    padding-left: 10px;
+    padding-right: 10px;
 }
+
 
 .input-box{
     height: 50px;
@@ -477,7 +478,7 @@ form::before{
     position: relative;  
 }
 
-.content .message-box textarea{
+.message-box textarea{
     position: absolute;  
     height: 100%;
     width: 100%;
@@ -489,12 +490,12 @@ form::before{
     transition: all 0.3s ease;
 }
 
-.content .message-box textarea:focus{
+.message-box textarea:focus{
     border-color: var(--first-color-darken);
     background: #fff;    
 }
 
-.content .message-box label{
+.message-box label{
     position: absolute;
     font-size: 16px;
     color: #636c72;
@@ -504,7 +505,7 @@ form::before{
     transition: all 0.3s ease;
 }
 
-.content .input-box textarea:focus ~ label{
+.input-box textarea:focus ~ label{
     left: 12px;
     top: -10px;
     color: var(--first-color-darken);
@@ -514,7 +515,6 @@ form::before{
     cursor: pointer;
     letter-spacing: 1px;
     transition: all 0.3s ease;
-
 }
 
 /*
