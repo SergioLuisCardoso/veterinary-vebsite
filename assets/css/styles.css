@@ -487,6 +487,7 @@ form::before{
 }
 
 .message-box textarea{
+    padding: 20px;
     position: absolute;  
     height: 100%;
     width: 100%;
