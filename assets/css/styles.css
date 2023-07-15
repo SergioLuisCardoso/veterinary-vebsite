@@ -380,7 +380,9 @@ form::before{
 }
 */
 
-
+form{
+    padding: 25px 20px;
+}
 
 .topic{
     text-align: center;
@@ -500,7 +502,7 @@ form::before{
 
 .message-box textarea:focus{
     border-color: var(--first-color-darken);
-    background: #fff;    
+    background: #f0cece;    
 }
 
 .message-box label{
