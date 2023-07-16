@@ -355,7 +355,7 @@ p{
 }
 
 /****************************************/
-/*************** Contato ***************/
+/*************** Contato ****************/
 /****************************************/
 /*
 form{
@@ -526,6 +526,45 @@ form{
     letter-spacing: 1px;
     transition: all 0.3s ease;
 }
+
+
+/****************************************/
+/*************** Footer ****************/
+/****************************************/
+
+
+.footer .share{
+    background-color: aquamarine;
+    display: flex;
+    align-items: center;
+    justify-content:center;
+    flex-wrap: wrap;
+    padding: 1rem 0;    
+}
+
+.footer .share a{
+    height: 3rem;
+    width: 3rem;
+    line-height: 3rem;
+    border-radius: 15%; /* for circule use 50% */
+    margin: 0.3rem;
+    font-size: 1.5rem;
+    text-align: center;
+    padding: 0;
+    color: var(--first-color-darken);
+    background-color: var(--first-color);
+}
+
+.footer .credit{
+    padding:2rem 1rem;
+    font-size: 1rem;    
+    border-top: 0.3rem solid rgba(0,0,0,.1);
+    text-align: center;
+    color: #333;
+}
+
+
+
 
 /*
 @media (max-width: 1000px){
