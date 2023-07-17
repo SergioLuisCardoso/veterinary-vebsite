@@ -75,6 +75,7 @@ a{
 img{
     max-width: 100%;
     display: block;
+    padding-top: 15px;
     /*height: auto;*/
 }
 
@@ -490,6 +491,8 @@ form{
 .message-box textarea{
     padding: 20px;
     position: absolute;  
+    font-family: 'Poppins';
+    font-size: 15px;
     height: 100%;
     width: 100%;
     resize: none;
@@ -515,7 +518,7 @@ form{
     transition: all 0.3s ease;
 }
 
-.input-box textarea:focus ~ label{
+.input .message-box textarea:focus ~ label{
     left: 12px;
     top: -10px;
     color: var(--first-color-darken);
