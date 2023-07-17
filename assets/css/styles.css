@@ -75,7 +75,7 @@ a{
 img{
     max-width: 100%;
     display: block;
-    padding-top: 15px;
+    padding-top: 25px;
     /*height: auto;*/
 }
 
@@ -460,8 +460,10 @@ form{
 
 .input-box input:focus,
 .input-box input:valid{
-    border-color: var(--first-color-darken);
-    background: #fff;
+    border-color: var(--first-color);
+    background: red;
+    color: white;
+
 }
 
 .input-box label{
