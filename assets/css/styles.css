@@ -461,7 +461,7 @@ form{
 .input-box input:focus,
 .input-box input:valid{
     border-color: var(--first-color);
-    background: red;
+    background: rgb(230, 67, 67);
     color: white;
 
 }
