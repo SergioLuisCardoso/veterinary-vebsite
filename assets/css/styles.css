@@ -448,7 +448,8 @@ form{
     font-size: 16px;
     outline: none;
     padding-left: 16px;
-    background:#c3d4a3;
+    /*background:#c3d4a3;*/
+    background: #e5c68a;
     border: 2px solid transparent;
     transition: all 0.3s ease;
 }
@@ -456,7 +457,7 @@ form{
 
 .input-box input:focus,
 .input-box input:valid{
-    border-color: green;
+    border-color: orange;
     background: #fff;
 }
 
@@ -477,7 +478,7 @@ form{
     top: 0;
     left: 80px;
     display: 14px;
-    color:#A83E51;
+    color: orange;
     background:#fff;
 }
 
@@ -504,7 +505,8 @@ form{
     height: 100%;
     width: 100%;
     resize: none;
-    background: #c3d4a3;
+   /* background: #c3d4a3;*/
+    background: #e5c68a;
     border: 2px solid transparent;
     border-radius: 6px;
     outline: none;
@@ -512,7 +514,7 @@ form{
 }
 
 .message-box textarea:focus{
-    border-color: green;
+    border-color: orange;
     background: #fff;    
 }
 
@@ -542,14 +544,14 @@ form{
 .message-box textarea:focus ~ label{
     left: 12px;
     top: -10px;
-    color: #4E8C3C;
+    color: orange;
     font-size: 14px;
     background: #fff;
 }
 
 .input-box input[type="submit"]{
     color: #fff;
-    background: #4E8C3C;
+    background: #FEAE11;
     padding-left: 0;
     font-size: 18px;
     font-weight: 500;
@@ -558,7 +560,7 @@ form{
     transition: all 0.3s ease;
   }
 .input-box input[type="submit"]:hover{
-    background-color: #4E8C3C;
+    background-color: #FEAE11;
   }
 
 
