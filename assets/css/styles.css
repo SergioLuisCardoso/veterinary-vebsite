@@ -498,7 +498,7 @@ form{
 
 .message-box textarea{
     padding: 20px; /**/
-    font-family: 'Poppins'; /**/
+    font-family: 'Poppins',sans-serif; /**/
     font-size: 15px; /**/
     position: absolute;  
     height: 100%;
@@ -525,7 +525,7 @@ form{
     pointer-events: none;
     transition: all 0.3s ease;
 }
-
+/*
 .message-box textarea:focus ~ label{
     left: 12px;
     top: -10px;
@@ -536,6 +536,15 @@ form{
     cursor: pointer;
     letter-spacing: 1px;
     transition: all 0.3s ease;
+}
+*/
+
+.message-box textarea:focus ~ label{
+    left: 12px;
+    top: -10px;
+    color: #4E8C3C;
+    font-size: 14px;
+    background: #fff;
 }
 
 .input-box input[type="submit"]{
