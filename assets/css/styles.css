@@ -142,7 +142,7 @@ p{
         position: fixed;
         top: 0;
         right: -100%;
-        width: 70%;
+        width: 50%;
         height: 100%;
         padding: 3.5rem 1.5rem 0;
         background: rgba(255,255,255,.3);
@@ -483,7 +483,7 @@ form{
 
 .input-box input:valid ~ label{
     top: 0;
-    left: 80px;
+    left: 800px;
     display: 14px;
     color:#A83E51;
     background:#fff;
@@ -497,7 +497,7 @@ form{
 }
 
 .message-box textarea{
-    padding: 20px; /**/
+    padding: 15px; /**/
     font-family: 'Poppins',sans-serif; /**/
     font-size: 15px; /**/
     position: absolute;  
@@ -568,7 +568,7 @@ form{
 
 
 .footer .share{
-    background-color: aquamarine;
+    background-color: none;
     display: flex;
     align-items: center;
     justify-content:center;
