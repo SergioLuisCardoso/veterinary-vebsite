@@ -484,7 +484,7 @@ form{
 
 .input-box input:valid ~ label{
     top: 0;
-    left: 800px;
+    left: 80px;
     display: 14px;
     color:#A83E51;
     background:#fff;
