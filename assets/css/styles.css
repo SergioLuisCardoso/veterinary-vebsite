@@ -592,11 +592,14 @@ form{
 }
 
 .footer .credit{
+    background-color: #FCA4A6;
+    color: #fff;
     padding:2rem 1rem;
     font-size: 1rem;    
     border-top: 0.3rem solid rgba(0,0,0,.1);
+    border-bottom: 0.3rem solid rgba(0,0,0,.1);
     text-align: center;
-    color: #333;
+    /*color: #333;*/
 }
 
 
