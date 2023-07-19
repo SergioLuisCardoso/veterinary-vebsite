@@ -594,8 +594,9 @@ form{
 .footer .credit{
     background-color: #FCA4A6;
     color: #fff;
-    padding:2rem 1rem;
-    font-size: 1rem;    
+    /*padding:2rem 1rem;*/
+    padding:0.5rem 0.5rem;
+    font-size: 13px;    
     border-top: 0.3rem solid rgba(0,0,0,.1);
     border-bottom: 0.3rem solid rgba(0,0,0,.1);
     text-align: center;
