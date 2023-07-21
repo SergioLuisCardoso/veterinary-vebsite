@@ -428,13 +428,16 @@ form{
     width: 100%;
     margin: 16px 0;
     position: relative;
+    padding-left: 22px;
+    padding-right: 15px;
 }
 
+/*
 .input-box{
     padding-left: 22px;
     padding-right: 15px;
 }   
-
+*/
 .message-box{
     margin-left: 22px;
     margin-right: 15px;
