@@ -176,8 +176,10 @@ p{
     font-size: 1.5rem;
     cursor: pointer;
 }
-
+/*************/
 /* Show Menu */
+/*************/
+
 .show{
     right: 0;
 }
