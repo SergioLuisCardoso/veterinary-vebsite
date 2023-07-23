@@ -477,8 +477,6 @@ form{
     transition: all 0.3s ease;
 }
 
-
-
 .input-box input:focus ~ label{
     top: 0;
     left: 80px;
@@ -494,8 +492,6 @@ form{
     color:#A83E51;
     background:#fff;
 }
-
-
 
 .message-box{
     min-height: 100px;
@@ -632,11 +628,6 @@ form{
     }
 
 }*/
-
-
-
-
-
 
 
 /* Media Queries */
