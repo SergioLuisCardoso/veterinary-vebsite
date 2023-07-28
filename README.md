@@ -12,11 +12,11 @@ O projeto ainda está em desenvolvimento e as próximas atualizações serão vo
 
 - [x] Página inicial
 - [x] Página Sobre
-- [ ] Página Consultas
-- [ ] Página Contato
-- [ ] Configurar WhatsApp
-- [ ] Configurar Telegram
-- [ ] Configurar E-mail
+- [x] Página Serviços
+- [x] Página Contato
+- [x] Redes Sociais
+
+
 
 
 
