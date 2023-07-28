@@ -1,21 +1,21 @@
 # Veterinary Website
 
-<img src="./assets/img/workers_1.jpg" alt="página inicial">
+<img src="./assets/img/main_screen.jpg" alt="página inicial">
 
-> Ainda em criação, o site terá informações sobre a formação e experiência do veterinário, transmitindo profissionalismo e confiança aos visitantes, localização do consultório ou clínica, serviços prestados, seção de dúvidas frequentes, envio de mensagens e agendamento de consultas.
+> Site desenvolvido com o propósito de divulgar os serviços prestados por uma veterinária que oferece atendimento domiciliar e está disponível 24 horas por dia para casos de emergência. Uma seção de contato foi adicionada, para que os usuários possam contatá-la via e-mail ou, logo abaixo, através de ícones das suas redes sociais - o botão "Agendar Agora" localizado na página inicial também conduz o usuário até esse recurso de agendamento.
 
-> 🚧 Site em construção ! 🚧
 
 ### ⚙️ Ajustes e melhorias
 
-O projeto ainda está em desenvolvimento e as próximas atualizações serão voltadas nas seguintes tarefas:
+O projeto está próximo de sua fase conclusiva. Em desenvolvimento e as próximas atualizações serão voltadas nas seguintes tarefas:
 
 - [x] Página inicial
 - [x] Página Sobre
 - [x] Página Serviços
 - [x] Página Contato
 - [x] Redes Sociais
-
+- [x] Configuração / Redes Sociais
+- [x] Configuração / E-mail
 
 
 
