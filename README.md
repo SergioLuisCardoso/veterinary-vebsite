@@ -7,7 +7,7 @@
 
 ### ⚙️ Ajustes e melhorias
 
-O projeto está caminhando para sua fase conclusiva. Até o momento, foram desenvolvidos quase todos os módulos. Nas próximas atualizações, concentraremos nossos esforços nas seguintes tarefas::
+O projeto está caminhando para sua fase conclusiva. Até o momento foram desenvolvidos quase todos os módulos. Nas próximas atualizações, concentraremos nossos esforços nas seguintes tarefas:
 
 - [x] Página inicial
 - [x] Página Sobre
