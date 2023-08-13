@@ -14,6 +14,7 @@ O projeto está caminhando para sua fase conclusiva. Até o momento foram desenv
 - [x] Página Serviços
 - [x] Página Contato
 - [x] Redes Sociais
+- [ ] Inclusão de Licença de uso
 - [ ] Configuração / Redes Sociais
 - [ ] Configuração / E-mail
 
