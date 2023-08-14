@@ -22,7 +22,9 @@ O projeto está caminhando para sua fase conclusiva. Até o momento foram desenv
 
 
 
+## 📝 Licença
 
+Esse projeto está sob licença. Veja o arquivo [LICENÇA](LICENSE.md) para mais detalhes.
 
 
 [⬆ Voltar ao topo](#veterinary-website)<br>
