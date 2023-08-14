@@ -7,7 +7,7 @@
 
 ### ⚙️ Módulos desenvolvidos
 
-Os módulos estão finalizados e estão listados abaixo na ordem em que foram desenvolvidos e concluídos. Por padrão, estamos aguardando os dados do provedor de serviços para permitir a configuração das seções 'Redes Sociais' e 'E-mail' com as informações do usuário titular.
+Todos os módulos foram concluídos e estão listados abaixo na sequência de desenvolvimento e conclusão. Por padrão, aguardamos os dados do usuário do sistema, possibilitando assim a configuração das seções 'Redes Sociais' e 'E-mail' para início dos serviços.
 
 - [x] Página inicial
 - [x] Página Sobre
