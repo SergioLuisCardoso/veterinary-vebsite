@@ -36,7 +36,7 @@ Os módulos estão finalizados e estão listados abaixo na ordem em que foram de
 <table>
   <tr>
     <td align ="center">
-      <a href="#">
+      <a href="https://sergioluiscardoso.github.io/portfolio-website/index.html">
         <img src="https://avatars.githubusercontent.com/u/55567543?v=4" width="100px;" alt="Foto Sergio Cardoso no GitHub"/><br>
         <sub>
           <b>Sergio Cardoso</b>
