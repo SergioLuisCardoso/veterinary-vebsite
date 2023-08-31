@@ -536,6 +536,13 @@ form{
     background-color: var(--first-color);
 }
 
+.footer .share a:hover{
+    color: white;
+    background-color: rgb(240, 192, 200);
+    transform: rotate(360deg);
+    /*transform: scale(1.2);*/
+}
+
 .footer .credit{
     background-color: #FCA4A6;
     color: #fff;
